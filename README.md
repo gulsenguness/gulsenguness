@@ -3,6 +3,10 @@
 <!--
 **gulsenguness/gulsenguness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com/?size=40&duration=3000&color=30DC72&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer" alt="Headline" />
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/gulsenguness/gulsenguness/blob/output/github-contribution-grid-snake.gif)
+

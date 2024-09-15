@@ -10,7 +10,7 @@
 - **Firebase**'i keşfederek uygulamalarımı bulutla buluşturuyorum.
 - Medium'da yazılar yazarak **bilgi** ve **deneyimlerimi** paylaşıyorum. 📚
 
-## 🌟 Fun Facts About Me:
+## 🌟 Facts About Me:
 
 - **Kahve** ve **kod** benim iki büyük tutkum. 🥰
 - **Hata yapmak** ve bu hatalardan ders çıkarmak, yazılımın eğlenceli bir parçası! 🔍
